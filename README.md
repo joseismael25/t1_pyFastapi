@@ -41,6 +41,9 @@ Abre en el navegador:
 - API: <http://127.0.0.1:8000>
 - Documentación interactiva: <http://127.0.0.1:8000/docs>
 - Documentación alternativa: <http://127.0.0.1:8000/redoc>
+  
+Abre el despliegue de render:
+-URL= <https://t1-pyfastapi-0b09.onrender.com> 
 
 Si el navegador muestra `ERR_CONNECTION_REFUSED`, el servidor no está ejecutándose o no inició correctamente. Revisa el error de la terminal y no cierres la ventana del servidor.
 
